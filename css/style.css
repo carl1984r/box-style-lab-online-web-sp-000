@@ -29,7 +29,7 @@ h4 {
 }
 
 h4.amiable {
-  background-image: linear-gradient(to right, red , yellow);
+  background-image: linear-gradient(to right, #138834, #44cc66);
 }
 
 .indifferent {
